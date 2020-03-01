@@ -3,6 +3,15 @@
     - [Docker Engine overview](https://docs.docker.com/install/)
 - install docker compose
     - [Install Docker Compose](https://docs.docker.com/compose/install/)
+## Setup Podman Enviroment
+- install podman
+  ```
+  $ sudo dnf install -y podman
+  ```
+- install podman-compose
+  ```
+  $ sudo dnf install -y podman-compose
+  ```
 ## Create node application
 ```
 $ mkdir <work dir>
