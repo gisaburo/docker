@@ -35,7 +35,7 @@ $ podman-compose up
 ```
 ## Stop application on podman
 ```
-$ poman pod ls
+$ podman pod ls
 $ podman pod stop nodejs
 ```
 ## Delete pod and container on podman
